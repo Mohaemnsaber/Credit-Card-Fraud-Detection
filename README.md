@@ -37,6 +37,13 @@ The dataset includes:
      Recall:       1.0000 (fraud class)
      F1-score:     0.9999
      ```
+     ## 📁 Dataset Source
+
+The dataset used in this project is available on [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+To run this notebook:
+1. Download `creditcard.csv` from the link above.
+2. Place it in the root project folder before running the notebook.
 
 ## 📦 Requirements
 
